@@ -1,2 +1,2 @@
 # learn
-somewhere to store code of study
+somewhere to reposit code of study
