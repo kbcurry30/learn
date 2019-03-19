@@ -1,0 +1,105 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "bus"
+  label: 1
+  display_name: "bus"
+}
+item {
+  name: "car"
+  label: 2
+  display_name: "car"
+}
+item {
+  name: "train"
+  label: 3
+  display_name: "train"
+}
+item {
+  name: "truck"
+  label: 4
+  display_name: "truck"
+}
+item {
+  name: "tricar"
+  label: 5
+  display_name: "tricar"
+}
+item {
+  name: "backmirror"
+  label: 6
+  display_name: "backmirror"
+}
+item {
+  name: "paperbox"
+  label: 7
+  display_name: "paperbox"
+}
+item {
+  name: "lightcover"
+  label: 8
+  display_name: "lightcover"
+}
+item {
+  name: "windglass"
+  label: 9
+  display_name: "windglass"
+}
+item {
+  name: "hungs"
+  label: 10
+  display_name: "hungs"
+}
+item {
+  name: "anusigns"
+  label: 11
+  display_name: "anusigns"
+}
+item {
+  name: "entrylisence"
+  label: 12
+  display_name: "entrylisence"
+}
+item {
+  name: "safebelt"
+  label: 13
+  display_name: "safebelt"
+}
+item {
+  name: "plate"
+  label: 14
+  display_name: "plate"
+}
+item {
+  name: "carlight"
+  label: 15
+  display_name: "carlight"
+}
+item {
+  name: "cartopwindow"
+  label: 16
+  display_name: "cartopwindow"
+}
+item {
+  name: "carrier"
+  label: 17
+  display_name: "carrier"
+}
+item {
+  name: "newersign"
+  label: 18
+  display_name: "newersign"
+}
+item {
+  name: "wheel"
+  label: 19
+  display_name: "wheel"
+}
+item {
+  name: "layon"
+  label: 20
+  display_name: "layon"
+}
