@@ -4,6 +4,11 @@
 2019.4.10
 
 第2次作业：
-学习并实现KNN算法，并在iris数据集上测试。提交knn_iris_yourname.py至learn/works/work_2下。
+学习并实现KNN算法，并在iris数据集上测试。提交knn_iris_yourname.py或者notebook文件至learn/works/work_2下。
 发布人：liupu
 2019.4.10
+
+第3次作业：
+学习并实现线性回归的最小二乘法，并在iris数据集上测试，提交linear_iris_yourname.py或者notebook文件至learn/works/work_3下。
+发布人：liupu
+2019.4.11
